@@ -1,3 +1,3 @@
-# CsPractice
+# CSPractice
 
 ### C# practice repository
